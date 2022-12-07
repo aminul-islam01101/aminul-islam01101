@@ -28,15 +28,12 @@
 <p align="left"> 
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/html_5.svg?alt=media&token=9c5f1917-eef3-48b7-b211-518f63cae1b3" alt="aminul-islam" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/css_3.svg?alt=media&token=962bef5d-a442-4d5d-b8ae-cb7eb81e7f11" alt="aminul-islam" />
-<img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/jquery.svg?alt=media&token=58e597a3-49f9-4fa8-8779-c8d549c00988" alt="aminul-islam" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Freact.png?alt=media&token=d2630aeb-2bff-405e-9009-cd9db90594d1" alt="aminul-islam" />
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fnext.png?alt=media&token=70f35f12-f2fd-4e1f-b47e-1f67c6025479" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/vue.svg?alt=media&token=d256d187-ff7d-4fc7-b33a-210d5bbcd747" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/nuxt-2.svg?alt=media&token=60f7af27-a759-4c70-8726-54fa157a01c5" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/bootstrap-5-1.svg?alt=media&token=aaa6737c-1cf9-497b-b857-3b2377f0aab3" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/tailwind-css-2.svg?alt=media&token=cd427171-8fcf-4191-b4c6-4207e8a1e8eb" alt="aminul-islam" />
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fflowbite.png?alt=media&token=39e96f73-693c-46c1-a0db-d9b46cd9e9f0" alt="aminul-islam" />
+
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667" alt="" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/bootstrap-5-1.svg?alt=media&token=aaa6737c-1cf9-497b-b857-3b2377f0aab3" alt="bootstrap" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/tailwind-css-2.svg?alt=media&token=cd427171-8fcf-4191-b4c6-4207e8a1e8eb" alt="tailwindcss" />
+ <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fflowbite.png?alt=media&token=39e96f73-693c-46c1-a0db-d9b46cd9e9f0" alt="flowbite" />
 </p>
 
 <h3 align="left">Back-end:</h3>
