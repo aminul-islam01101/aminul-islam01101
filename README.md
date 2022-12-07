@@ -5,7 +5,7 @@
 
 <p margin-bottom="2px">&nbsp</p>
 
-- 🔭 I’m currently working on **Laravel project**
+- 🔭 I’m currently working on **MERN Stack Project**
 
 - 🌱 I’m currently learning **Laravel and vue js**
 
