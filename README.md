@@ -7,18 +7,14 @@
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Laravel and vue js**
+- 🌱 I’m currently learning **Software Architecture**
 
-- 👨‍💻 All of my projects are available on  <a href="https://mynewapp-efa8f.web.app/works.html" target="blank"> **my website**</a>
+- 💬 Ask me about **Javascript and React Js**
 
-- 📝 I regularly write articles on  <a href="https://deadpoolzrx1.blogspot.com/" target="blank"> **blogsport**</a>
+- 📫 How to reach me **aminul.islam01101@gmail.com**
 
-- 💬 Ask me about **vue js and gsap**
-
-- 📫 How to reach me **rejwanahamed85@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AIAGfjdmfKh34-nPQJn4wJc8CSSpj6u2/view" target="blank"> **My resume**</a>
-- ⚡ Fun fact **I hate bugs**
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HqnmhS7Bny6BtjiumoLLwq0jQqrqUZAp/view?usp=sharing" target="blank"> **My resume**</a>
+- ⚡ Fun fact **Intense Coding make me forget eating**
 
 <p margin-bottom="2px">&nbsp</p>
 
