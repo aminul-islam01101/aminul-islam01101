@@ -37,11 +37,6 @@
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/bootstrap-5-1.svg?alt=media&token=aaa6737c-1cf9-497b-b857-3b2377f0aab3" alt="aminul-islam" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/tailwind-css-2.svg?alt=media&token=cd427171-8fcf-4191-b4c6-4207e8a1e8eb" alt="aminul-islam" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fflowbite.png?alt=media&token=39e96f73-693c-46c1-a0db-d9b46cd9e9f0" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/gsap-greensock.svg?alt=media&token=c240fa76-6feb-4d74-8f99-5942041eb1ec" alt="aminul-islam" />
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/e9260bba75c7a6f9e30276308981e7d1b0539d9244bf98b2716aaece7a810cc0/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6672616d65722f6672616d65722d69636f6e2e737667" alt="aminul-islam" />
- 
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fredux.png?alt=media&token=a3fb24cd-edba-43c2-977f-6ebc6b0a2346" alt="aminul-islam" />
- 
 </p>
 
 <h3 align="left">Back-end:</h3>
