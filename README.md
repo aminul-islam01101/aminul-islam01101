@@ -26,6 +26,7 @@
 
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
+   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/2d350500e72d7fea4b943ad40b07172330ab7a36bb17007c19ce7429953dd0ad/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f6a732e7376673f616c743d6d6564696126746f6b656e3d63323132343437622d656564322d343764312d396530362d353963643630303061313965" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/html_5.svg?alt=media&token=9c5f1917-eef3-48b7-b211-518f63cae1b3" alt="html" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/css_3.svg?alt=media&token=962bef5d-a442-4d5d-b8ae-cb7eb81e7f11" alt="css" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Freact.png?alt=media&token=d2630aeb-2bff-405e-9009-cd9db90594d1" alt="react" />
@@ -47,18 +48,11 @@
 </p>
 
 
-
-<h3 align="left">Language:</h3>
-<p align="left">  
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/2d350500e72d7fea4b943ad40b07172330ab7a36bb17007c19ce7429953dd0ad/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f6a732e7376673f616c743d6d6564696126746f6b656e3d63323132343437622d656564322d343764312d396530362d353963643630303061313965" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/d07b5b534794922109bd74cc8679110c918aa255edfe437a8d581f07859d4ad6/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f7068702e7376673f616c743d6d6564696126746f6b656e3d31303863316635642d613161632d346334352d626666362d323232623561316461373833" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/d54cb8a71c6e700018b4d1390e6178d544f5713b618cb11e3d9513640a82d0c9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646172746c616e672f646172746c616e672d69636f6e2e737667" />
- </p>
  
  
  <h3 align="left">Tools:</h3>
 <p align="left"> 
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/sublime_text.svg?alt=media&token=65e34e55-2369-4745-a608-0c5f8a8fb05a" alt="aminul-islam" />
+ 
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/vs_code.svg?alt=media&token=173d16aa-6f35-409f-9022-1b6db7ae16da" alt="aminul-islam" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/github-icon-1.svg?alt=media&token=f4ad0cf2-9c74-4f5c-93e2-3270224e684d" alt="aminul-islam" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/git.svg?alt=media&token=4dc16fff-a177-4d2b-bd7f-7f034027c41f" alt="aminul-islam" />
@@ -70,14 +64,7 @@
 
 
 
-<h3 align="left">Adobe softwares:</h3>
-<p align="left"> 
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/adobe_photoshop.svg?alt=media&token=aacd9e59-156f-482a-9432-75d1e741de96" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/adobe_xd.svg?alt=media&token=1e8969df-5b1d-4710-b57d-09a7de427100" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/adobe_after_effects.svg?alt=media&token=b5a935bf-c961-41e3-bf97-cdce729cface" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/adobe_illustrator.svg?alt=media&token=166f22d9-4ed3-405b-9260-5ece31c0ba72" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/adobe_indesign.svg?alt=media&token=58384987-911e-4183-b1ab-4d1b417075de" alt="aminul-islam" />
-</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul-islam01101&show_icons=true&locale=en&layout=compact" alt="aminul-islam01101" /></p>
 
