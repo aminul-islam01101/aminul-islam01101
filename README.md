@@ -79,17 +79,11 @@
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/adobe_indesign.svg?alt=media&token=58384987-911e-4183-b1ab-4d1b417075de" alt="aminul-islam" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=
-aminul-islam01101&show_icons=true&locale=en&layout=compact" alt="
-aminul-islam01101" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul-islam01101&show_icons=true&locale=en&layout=compact" alt="aminul-islam01101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=
-aminul-islam01101_icons=true&locale=en" alt="
-aminul-islam01101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-islam01101_icons=true&locale=en" alt="aminul-islam01101" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=
-aminul-islam01101&" alt="
-aminul-islam01101" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam01101&" alt="aminul-islam01101" /></p>
 
 
 
