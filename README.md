@@ -54,11 +54,11 @@
 <p align="left"> 
  
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/vs_code.svg?alt=media&token=173d16aa-6f35-409f-9022-1b6db7ae16da" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/github-icon-1.svg?alt=media&token=f4ad0cf2-9c74-4f5c-93e2-3270224e684d" alt="aminul-islam" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/github-icon-2.svg?alt=media&token=f4ad0cf2-9c74-4f5c-93e2-3270224e684d" alt="aminul-islam" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/git.svg?alt=media&token=4dc16fff-a177-4d2b-bd7f-7f034027c41f" alt="aminul-islam" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="aminul-islam" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="aminul-islam" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/wordpress.svg?alt=media&token=95b8b475-cc33-4fc4-9a24-7bfc3c39653a" alt="aminul-islam" />
+
 </p>
 
 
