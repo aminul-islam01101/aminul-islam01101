@@ -67,9 +67,9 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul-islam01101&show_icons=true&locale=en&layout=compact" alt="aminul-islam01101" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithashim&show_icons=true&locale=en" alt="codewithashim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-islam01101&show_icons=true&locale=en" alt="aminul-islam01101" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminul-islam01101_icons=true&locale=en" alt="aminul-islam01101" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminul-islam01101&" alt="aminul-islam01101" /></p>
 
