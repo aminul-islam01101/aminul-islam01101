@@ -30,7 +30,7 @@
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/html_5.svg?alt=media&token=9c5f1917-eef3-48b7-b211-518f63cae1b3" alt="html" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/css_3.svg?alt=media&token=962bef5d-a442-4d5d-b8ae-cb7eb81e7f11" alt="css" />
     <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/2d350500e72d7fea4b943ad40b07172330ab7a36bb17007c19ce7429953dd0ad/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f6a732e7376673f616c743d6d6564696126746f6b656e3d63323132343437622d656564322d343764312d396530362d353963643630303061313965" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/aminul-islam01101/aminul-islam01101/blob/main/typescript.svg" alt="Typescript" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/aminul-islam01101/aminul-islam01101/blob/main/Typescript.svg" alt="Typescript" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Freact.png?alt=media&token=d2630aeb-2bff-405e-9009-cd9db90594d1" alt="react" />
 
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/bootstrap-5-1.svg?alt=media&token=aaa6737c-1cf9-497b-b857-3b2377f0aab3" alt="bootstrap" />
