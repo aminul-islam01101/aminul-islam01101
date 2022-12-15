@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
-- 🌱 I’m currently learning **Software Architecture**
+- 🌱 I’m currently learning **NEXT JS and Redux**
 
 - 💬 Ask me about **Javascript and React Js**
 
