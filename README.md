@@ -5,11 +5,11 @@
 
 <p margin-bottom="2px">&nbsp</p>
 
-- 🔭 I’m currently working on **MERN Stack Project**
+- 🔭 I’m currently working on **Full Stack Project** focusing on microservice architecture
 
-- 🌱 I’m currently learning ** postgres**
+- 🌱 I’m currently learning **postgres**
 
-- 💬 Ask me about **Javascript and React.Js**
+- 💬 Ask me about **Javascript, React.js, Next.js**
 
 - 📫 How to reach me **aminul.islam01101@gmail.com**
 
