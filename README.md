@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Project** focusing on microservice architecture
 
-- 🌱 I’m currently learning **postgres**
+- 🌱 I’m currently playing with **postgres and mysql**
 
 - 💬 Ask me about **Javascript, React.js, Next.js**
 
