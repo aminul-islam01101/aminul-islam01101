@@ -71,7 +71,7 @@
 <br/>
 <div><img align="left"  width="33%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminul-islam01101&show_icons=true&locale=en&layout=compact" alt="aminul-islam01101" /></div>
 <br/>
-<p>&nbsp;<img align="center" width="35%"  src="https://github-readme-stats.vercel.app/api?username=aminul-islam01101&show_icons=true&locale=en" alt="aminul-islam01101" /></p>
+<p margin-bottom="10px">&nbsp;<img align="center" width="35%"  src="https://github-readme-stats.vercel.app/api?username=aminul-islam01101&show_icons=true&locale=en" alt="aminul-islam01101" /></p>
 
 
 
