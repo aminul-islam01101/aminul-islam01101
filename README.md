@@ -81,7 +81,7 @@
 </p margin-bottom="20px">
  <h3 align="left">Cloud:</h3>
 <p align="left"> 
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/GthMKDG/AWS-Emblem.png" alt="aws" />
+ <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/M1yTNF9/aws-logo-smile-1200x630.png" alt="aws" />
 
   
 
