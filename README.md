@@ -60,7 +60,7 @@
 <p align="left"> 
  
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/x1Vkj94/mongodb-icon-2048x2048-cezvpn3f.png" alt="mongodb" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/2Mv2yZm/1443992.png" alt="mysql" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/r3dqqtC/png-transparent-mysql-database-relational-database-sql-mysql-logo-database-management-3d-icon.png" alt="mysql" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/wc9F6T3/5968342-1.png" alt="postgresql" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/f8YrrNS/550460.png" alt="redis" />
  
@@ -71,7 +71,6 @@
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/aminul-islam01101/aminul-islam01101/blob/main/GitHub.png" alt="Github" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/git.svg?alt=media&token=4dc16fff-a177-4d2b-bd7f-7f034027c41f" alt="aminul-islam" />
 
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="aminul-islam" />
 
 </p>
 
