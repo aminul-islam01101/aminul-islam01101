@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/aminulislam01101/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/linkedin.svg?alt=media&token=0614638e-c505-4220-8f62-d6d39a063ba4" alt="deadpoolzrx" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">Skills:</h2>
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
  
