@@ -60,7 +60,7 @@
 <p align="left"> 
  
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/x1Vkj94/mongodb-icon-2048x2048-cezvpn3f.png" alt="mongodb" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/r3dqqtC/png-transparent-mysql-database-relational-database-sql-mysql-logo-database-management-3d-icon.png" alt="mysql" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/vq4J4Yd/282-2827432-mysql-logo-png-transparent-png.png" alt="mysql" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/wc9F6T3/5968342-1.png" alt="postgresql" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/f8YrrNS/550460.png" alt="redis" />
  
