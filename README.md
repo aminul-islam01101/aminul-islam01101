@@ -25,6 +25,14 @@
 </p>
 
 <h2 align="left">Skills:</h2>
+<h3 align="left">Languages:</h3>
+<p align="left">  
+ <img align="center" alt="javascript" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/jHmw6jp/javascript-js-icon-2048x2048-nyxvtvk0.png" />
+ <img align="center" alt="typescript" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/VWQG3KD/5968381.png" />
+
+  
+</p>
+
 <h3 align="left">Front-end:</h3>
 <p align="left"> 
  
