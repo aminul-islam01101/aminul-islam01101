@@ -37,7 +37,7 @@
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/html_5.svg?alt=media&token=9c5f1917-eef3-48b7-b211-518f63cae1b3" alt="html" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/css_3.svg?alt=media&token=962bef5d-a442-4d5d-b8ae-cb7eb81e7f11" alt="css" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Freact.png?alt=media&token=d2630aeb-2bff-405e-9009-cd9db90594d1" alt="react" />
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/Y2HCn8g/6313eaf4b41bd275260216-3.png" alt="next js" />
+ <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://i.ibb.co/H7QttL0/4a2be73b1e2efb44355436c40bf496dd.jpg" alt="next js" />
 
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/bootstrap-5-1.svg?alt=media&token=aaa6737c-1cf9-497b-b857-3b2377f0aab3" alt="bootstrap" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/tailwind-css-2.svg?alt=media&token=cd427171-8fcf-4191-b4c6-4207e8a1e8eb" alt="tailwindcss" />
