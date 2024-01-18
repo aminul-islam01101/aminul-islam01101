@@ -18,7 +18,7 @@
 
 <p margin-bottom="2px">&nbsp</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/aminul.islam01101" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/Facebook.svg?alt=media&token=d407bf0a-635d-4e67-8682-996a5e035507" alt="deadpool.zrx.9" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aminulislam01101/" target="blank"><img align="center" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/linkedin.svg?alt=media&token=0614638e-c505-4220-8f62-d6d39a063ba4" alt="deadpoolzrx" height="30" width="40" /></a>
